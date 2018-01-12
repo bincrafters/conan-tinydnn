@@ -4,7 +4,6 @@
 from conans import ConanFile, tools
 import os
 
-
 class TinydnnConan(ConanFile):
     name = "tiny-dnn"
     version = "1.0.0a3"
